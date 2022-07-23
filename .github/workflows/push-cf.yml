@@ -7,7 +7,7 @@ env:
   IBM_CLOUD_REGION: us-east
   IBM_CLOUD_GROUP: Default
   IBM_CLOUD_SPACE: djangoserver-space
-  IBM_CLOUD_ORG: kevin.lisboa2@gmail.com
+  IBM_CLOUD_ORG: Kevin Lisboa
   MANIFEST_NAME: manifest.yml
   IBM_CLOUD_API: ${{secrets.IBM_CLOUD_API_KEY}}
 
